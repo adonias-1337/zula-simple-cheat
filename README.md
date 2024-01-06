@@ -1,5 +1,5 @@
-Son Güncelleme: 20.08.2021 |
-discord: adonias#1337
+Son Güncelleme: 06.01.2024 |
+discord: vessy1337
 
 
 1- Aşağıda verilen linkten dosyayı indir ve içindekileri bir klasöre at.
@@ -16,7 +16,8 @@ discord: adonias#1337
 
 7- Hile menüsü karşına gelecektir. İyi oyunlar.
 
-Hilenin yeni sürümünde spoofer eklenmiş, eş zamanlı olarak hileyi alıp kırdık ve spoofer ile birlikte size sunuyoruz. Ufak dump ve patch bilgisi olan arkadaşlar kaynak kodlarını alıp projelerinde kullanabilir (Injector ve Driver için de aynısı geçerli.)
+![image](https://github.com/adonias-1337/zula-simple-cheat/assets/81821456/fa4f42ab-6ce7-4a97-835f-57f9b4df2743)
+
 
 Menü gelmiyorsa:
 - Virüs programlarını kapatıp tüm adımları tekrar dene (Windows Defender vb)

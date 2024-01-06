@@ -25,7 +25,8 @@ discord: vessy1337
 Bu hatanın tek çözümü Windows Defender ve diğer güvenlik programlarını kapatmaktır.
 Zula Simple Cheat yazılımında hiçbir 3. parti olumsuz taraflı içerik bulunmamaktadır lâkin false positive durumu çoğu hilede oluşabileceği gibi Zula Simple Cheat üzerinde de oluşabilmektedir.
 
-**Mavi Ekran ve Hata Kodları**
+- **Mavi Ekran ve Hata Kodları**
+
 Bu sorunlar genellikle yeni işletim sistemlerinde görülmektedir (Windows 11, Windows 10 20H2+). Bu sürümlerde bulunan ekstra özellikler Zula Simple Cheat'in altyapısında kullanılan modül ve fonksiyonlarla çakışmakta, problemlere sebep olabilmektedir. Bunun bir diğer sebebi ise Driver'ın yine aynı doğrultuda çalışmamasıdır. Firewall, Secure Boot gibi modern Windows fonksiyonlarını devre dışı bırakıp tekrar deneyin. Eğer işe yaramazsa "Windows Sanallaştırma Tabanlı Güvenlik" fonksiyonunu da devre dışı bırakmanız gerekecektir.
 
 - **.NET Framework hataları**

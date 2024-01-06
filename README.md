@@ -2,19 +2,13 @@
 
 Son Güncelleme: 06.01.2024 | discord: adonias#1337
 
-1- Aşağıda verilen linkten dosyayı indir ve içindekileri bir klasöre at.
-
-2- İlk önce "load.exe" dosyasını çalıştır ve Driver'ı yükle.
-
-3- Driver başarılı bir şekilde yüklendikten sonra "lowuz injector.exe" çalıştır.;
-
-4- "Zula_Simple_Injector" dosyasını çalıştır
-
-5- Oyunu başlat.
-
-6- "Enjekte Edildi" yazısı geldikten sonra oyun içinde "INSERT" tuşuna bas.
-
-7- Hile menüsü karşına gelecektir. İyi oyunlar.
+- Aşağıda verilen linkten dosyayı indir ve içindekileri bir klasöre at.
+- İlk önce "load.exe" dosyasını çalıştır ve Driver'ı yükle.
+- Driver başarılı bir şekilde yüklendikten sonra "lowuz injector.exe" çalıştır.;
+- "Zula_Simple_Injector" dosyasını çalıştır
+- Oyunu başlat.
+- "Enjekte Edildi" yazısı geldikten sonra oyun içinde "INSERT" tuşuna bas.
+- Hile menüsü karşına gelecektir. İyi oyunlar.
 
 Ufak dump ve patch bilgisi olan arkadaşlar kaynak kodlarını alıp projelerinde kullanabilir (Injector ve Driver için de aynısı geçerli.)
 

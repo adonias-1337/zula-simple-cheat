@@ -4,17 +4,21 @@ discord: vessy1337
 
 1- Aşağıda verilen linkten dosyayı indir ve içindekileri bir klasöre at.
 
-2- İlk önce "load.exe" dosyasını çalıştır ve Driver'ı yükle.
+2- Windows Konsolunu (CMD) yönetici olarak başlat.
 
-3- Driver başarılı bir şekilde yüklendikten sonra "lowuz injector.exe" çalıştır.
+3- Dosyaları attığın klasörün konumunu "cd C:\Kullanıcı\Konum" komutunu kullanarak seç
 
-4- "Zula_Simple_Injector.exe" dosyasını çalıştır.
+4- Konumu belirledikten sonra, "load.exe udrszmimkq.sys" komutunu gir.
 
-5- Oyunu başlat.
+5- Driver'ın yüklenmesini bekle.
 
-6- "Enjekte Edildi" yazısı geldikten sonra oyun içinde "INSERT" tuşuna bas.
+6- Driver başarılı bir şekilde yüklendikten sonra "Zula_Simple_Injector.exe" dosyasını çalıştır.
 
-7- Hile menüsü karşına gelecektir. İyi oyunlar.
+7- Oyunu başlat.
+
+8- "Enjekte Edildi" yazısı geldikten sonra oyun içinde "INSERT" tuşuna bas.
+
+9- Hile menüsü karşına gelecektir. İyi oyunlar.
 
 ![image](https://github.com/adonias-1337/zula-simple-cheat/assets/81821456/fa4f42ab-6ce7-4a97-835f-57f9b4df2743)
 

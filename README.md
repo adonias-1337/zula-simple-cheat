@@ -20,7 +20,7 @@ discord: vessy1337
 
 9- Hile menüsü karşına gelecektir. İyi oyunlar.
 
-![image](https://github.com/adonias-1337/zula-simple-cheat/assets/81821456/fa4f42ab-6ce7-4a97-835f-57f9b4df2743)
+![image](https://media.discordapp.net/attachments/1193448802267443220/1193449969454166136/image.png?ex=65acc1e5&is=659a4ce5&hm=358bcf138bf6943bc025c0dd296bf3c4926e7d3745b6ef2c952e435919e5dbd5&)
 
 
 

@@ -1,4 +1,4 @@
-Son Güncelleme: 06.01.2024 |
+Son Güncelleme: 15.01.2024 |
 discord: vessy1337
 
 
@@ -20,7 +20,7 @@ discord: vessy1337
 
 9- Hile menüsü karşına gelecektir. İyi oyunlar.
 
-![image](https://media.discordapp.net/attachments/1193448802267443220/1193449969454166136/image.png?ex=65acc1e5&is=659a4ce5&hm=358bcf138bf6943bc025c0dd296bf3c4926e7d3745b6ef2c952e435919e5dbd5&)
+[![image](https://media.discordapp.net/attachments/1193448802267443220/1193449969454166136/image.png?ex=65acc1e5&is=659a4ce5&hm=358bcf138bf6943bc025c0dd296bf3c4926e7d3745b6ef2c952e435919e5dbd5&)](https://media.discordapp.net/attachments/889211277325529112/1196364666222415952/Zula_2024-01-15_10-59-16.jpg?ex=65b75c6b&is=65a4e76b&hm=c4ae4b0947e462b0c63af2d84a4bfb7dcfb08ab11cbd19539e829e58dbc26b32&=&format=webp&width=1120&height=630)
 
 
 

@@ -1,23 +1,25 @@
-Son Güncelleme: 15.01.2024 | Zula Simple Cheat 2.0
+Son Güncelleme: 18.01.2024 | Zula Simple Cheat 3.0
 
 **Güncelleme Notları**
-- 2D ESP Box eklendi.
-- ESP Lines eklendi.
-- WallHack, Fast Reload, Fast Weapon Switch gibi özellikler kaldırıldı.
-- Injector yenilendi.
+- Driver güncellendi. Yeni oyun güncellemesine stabilize edildi.
+- Kullanım prensibi değişti, yeni dosyaları indirip kurulumu tekrar uygulayın.
 
 discord: vessy1337
 
+__NOT: Driver'ın stabilize bir şekilde çalışması için Firewall, Secure Boot, Windows Defender ve diğer anti-virüs programlarının driverlarının kapalı hatta silinmiş olması gerekmektedir. Bu yazılımları tamamen siliniz.__
 
-1- Aşağıda verilen linkten dosyayı indir ve içindekileri bir klasöre at.
+1- Aşağıda verilen linkten dosyayı indir ve içindekileri bir klasöre çıkar.
 
 2- Windows Konsolunu (CMD) yönetici olarak başlat.
 
-3- Dosyaları attığın klasörün konumunu "cd C:\Kullanıcı\Konum" komutunu kullanarak seç
+3- Dosyaları attığın klasörün konumunu CMD'den seç örnek olarak "cd C:\Users\intel\Desktop\Zula Simple Menu" şeklinde.
 
-4- Konumu belirledikten sonra, "load.exe udrszmimkq.sys" komutunu gir.
+![image](https://github.com/adonias-1337/zula-simple-cheat/assets/81821456/32117457-22b2-413a-8305-4101ee3403ef)
 
-5- Driver'ın yüklenmesini bekle.
+
+4- CMD ekranına "load.exe" yaz
+
+5- İşlem tamamlandıktan sonra CMD ekranına yalnızca "udrszmimkq.sys" yaz ve Driver'ın yüklenmesini bekle.
 
 6- Driver başarılı bir şekilde yüklendikten sonra "Zula_Simple_Injector.exe" dosyasını çalıştır.
 

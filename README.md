@@ -11,7 +11,7 @@ __NOT: Driver'ın stabilize bir şekilde çalışması için Firewall, Secure Bo
 
 1- Aşağıda verilen linkten dosyayı indir ve içindekileri bir klasöre çıkar.
 
-2- simple_injector_3.2.exe dosyasını **YÖNETİCİ OLARAK BAŞLAT**
+2- simple_injector_3.2.exe dosyasını **YÖNETİCİ OLARAK BAŞLAT** YÖNETİCİ OLARAK BAŞLATMAZSANIZ HATA ALIRSINIZ!
 
 ![image](https://github.com/adonias-1337/zula-simple-cheat/assets/81821456/32117457-22b2-413a-8305-4101ee3403ef)
 

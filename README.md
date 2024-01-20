@@ -1,8 +1,9 @@
-Son Güncelleme: 18.01.2024 | Zula Simple Cheat 3.0
+Son Güncelleme: 21.01.2024 | Zula Simple Cheat 3.2
 
 **Güncelleme Notları**
-- Driver güncellendi. Yeni oyun güncellemesine stabilize edildi.
-- Kullanım prensibi değişti, yeni dosyaları indirip kurulumu tekrar uygulayın.
+- Injector tamamen değiştirildi ve yenilendi.
+- Driver yüklemeleri otomatik hale getirildi.
+- Driver yenilendi ve güncellendi.
 
 discord: vessy1337
 
@@ -10,24 +11,17 @@ __NOT: Driver'ın stabilize bir şekilde çalışması için Firewall, Secure Bo
 
 1- Aşağıda verilen linkten dosyayı indir ve içindekileri bir klasöre çıkar.
 
-2- Windows Konsolunu (CMD) yönetici olarak başlat.
-
-3- Dosyaları attığın klasörün konumunu CMD'den seç örnek olarak "cd C:\Users\intel\Desktop\Zula Simple Menu" şeklinde.
+2- simple_injector_3.2.exe dosyasını **YÖNETİCİ OLARAK BAŞLAT**
 
 ![image](https://github.com/adonias-1337/zula-simple-cheat/assets/81821456/32117457-22b2-413a-8305-4101ee3403ef)
 
+3- Driver'ın indirilmesini bekle.
 
-4- CMD ekranına "load.exe" yaz
+4- "Waiting for Zula" yazısı gelince oyunu başlat.
 
-5- İşlem tamamlandıktan sonra CMD ekranına yalnızca "udrszmimkq.sys" yaz ve Driver'ın yüklenmesini bekle.
+5- "Injected." yazısı geldikten sonra oyun içinde "INSERT" tuşuna bas.
 
-6- Driver başarılı bir şekilde yüklendikten sonra "Zula_Simple_Injector.exe" dosyasını çalıştır.
-
-7- Oyunu başlat.
-
-8- "Enjekte Edildi" yazısı geldikten sonra oyun içinde "INSERT" tuşuna bas.
-
-9- Hile menüsü karşına gelecektir. İyi oyunlar.
+6- Hile menüsü karşına gelecektir. İyi oyunlar.
 
 
 ![Zula 2024-01-15 10-59-16](https://github.com/adonias-1337/zula-simple-cheat/assets/81821456/4e5e9ebf-3d0d-4a9f-bd67-c16c8713884d)

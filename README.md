@@ -22,7 +22,8 @@ __NOT: Driver'ın stabilize bir şekilde çalışması için Firewall, Secure Bo
 6- Hile menüsü karşına gelecektir. İyi oyunlar.
 
 
-![Zula 2024-01-15 10-59-16](https://github.com/adonias-1337/zula-simple-cheat/assets/81821456/4e5e9ebf-3d0d-4a9f-bd67-c16c8713884d)
+![image](https://github.com/adonias-1337/zula-simple-cheat/assets/81821456/e632006d-a151-4957-8ec8-3e4eec5fd3d3)
+
 
 
 

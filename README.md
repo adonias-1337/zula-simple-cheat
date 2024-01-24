@@ -2,7 +2,7 @@ Son Güncelleme: 24.01.2024 | Zula Simple Cheat 3.3
 
 **Güncelleme Notları**
 - Ufak iyileştirmeler yapıldı.
-- Menü arayüzü değiştirildi.
+- Menü arayüzü değiştirildi..
 
 discord: vessy1337
 

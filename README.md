@@ -1,9 +1,8 @@
-Son Güncelleme: 30.01.2024 | Zula Simple Cheat 3.4
+Son Güncelleme: 04.02.2024 | Zula Simple Cheat 3.5
 
 **Güncelleme Notları**
-- New features added: Esp Box, Chams, Triggerbot
-- Injector completely renewed.
-- Injection Method changed.
+- Driver re-signed with different method.
+- Injection method changed (again).
 
 discord: vessy1337
 

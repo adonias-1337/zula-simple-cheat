@@ -18,7 +18,7 @@ __NOT: Driver'ın stabilize bir şekilde çalışması için Firewall, Secure Bo
 
 5- "Injected." yazısı geldikten sonra menü en üst pencereye enjekte olacaktır, oyun içerisine enjekte olmaz, tamamen externaldir o sebeple; **[KONSOLU KAPATMAYIN, KAPATIRSANIZ MENÜ KAPANACAKTIR.]**
 
-6- End tuşuna basıp menüyü açıp kapatabilirsiniz.
+6- Insert tuşuna basıp menüyü açıp kapatabilirsiniz.
 
 
 ![Zula 2024-01-30 22-00-46](https://github.com/adonias-1337/zula-simple-cheat/assets/81821456/11c26128-a852-44e3-9a55-64626294804e)

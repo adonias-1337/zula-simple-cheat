@@ -1,7 +1,8 @@
-Son Güncelleme: 12.02.2024 | Zula Simple Cheat 3.7
+Son Güncelleme: 27.02.2024 | Zula Simple Cheat 3.8
 
 **Güncelleme Notları**
-- Driver re-signed with different method.
+- Karşıdan yüklemeler düzenlendi.
+- Inject sorunları çözüldü.
 
 discord: vessy1337
 

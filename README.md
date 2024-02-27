@@ -1,4 +1,4 @@
-Son Güncelleme: 12.02.2024 | Zula Simple Cheat 3.6
+Son Güncelleme: 12.02.2024 | Zula Simple Cheat 3.7
 
 **Güncelleme Notları**
 - Driver re-signed with different method.

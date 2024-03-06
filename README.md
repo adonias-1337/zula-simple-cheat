@@ -1,4 +1,4 @@
-Son Güncelleme: 27.02.2024 | Zula Simple Cheat 3.8
+Son Güncelleme: 27.02.2024 | Zula Simple Cheat 3.8 [![Github All Releases](https://img.shields.io/github/downloads/adonias-1337/zula-simple-cheat/total)]()
 
 **Güncelleme Notları**
 - Karşıdan yüklemeler düzenlendi.

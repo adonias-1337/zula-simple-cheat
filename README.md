@@ -1,11 +1,15 @@
-Son Güncelleme: 08.03.2024 | Zula Simple Cheat 3.9 [![Github All Releases](https://img.shields.io/github/downloads/adonias-1337/zula-simple-cheat/total)]()
+Son Güncelleme: 11.03.2024 | Zula Simple Cheat 4.0 [![Github All Releases](https://img.shields.io/github/downloads/adonias-1337/zula-simple-cheat/total)]()
 
 
 
 **Güncelleme Notları**
-- Son Güncelleme Linki: https://github.com/adonias-1337/zula-simple-cheat/releases/tag/v3.9-08.03.2024
-- Karşıdan yüklemeler düzenlendi.
-- Inject sorunları çözüldü.
+- En Güncelleme Linki:(https://github.com/adonias-1337/zula-simple-cheat/releases/tag/v4.0-11.03.2024)
+- Yeni özellikler eklendi.
+- Menü arayüzü sıfırdan tasarlandı.
+- Driver güncellendi.
+- Özellikler güncellendi.
+- Driver imzalandı.
+- Giriş ve inject sorunları çözüldü.
 
 discord: vessy1337
 

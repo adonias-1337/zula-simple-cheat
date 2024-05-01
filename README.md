@@ -1,4 +1,4 @@
-# Zula Simple Cheat [![Github All Releases](https://img.shields.io/github/downloads/adonias-1337/zula-simple-cheat/total)]()
+# [ÇALIŞMIYOR] Zula Simple Cheat [![Github All Releases](https://img.shields.io/github/downloads/adonias-1337/zula-simple-cheat/total)]()
 
 Son Güncelleme: 06.04.2024 | Zula Simple Cheat 4.1 
 

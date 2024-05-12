@@ -1,4 +1,4 @@
-# Kingdom Classic [![Github All Releases](https://img.shields.io/github/downloads/adonias-1337/zula-simple-cheat/total)]()
+# Kingdom Classic 
 
 Kingdom: Classic [PRE-RELEASED DLC]
 

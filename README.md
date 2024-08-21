@@ -1,12 +1,23 @@
-# Kingdom Classic 
+# Zula Simple Cheat Menu
 
-Kingdom: Classic [PRE-RELEASED DLC]
+Son Güncelleme: 21.08.2024 | discord: vessy#1337
 
- ![image](https://github.com/adonias-1337/zula-simple-cheat/assets/81821456/fa1db37a-b3e5-4470-b0a6-46649029891f)
+- Aşağıda verilen linkten dosyayı indir ve içindekileri bir klasöre at.
+- İlk önce "load.exe" dosyasını çalıştır ve Driver'ı yükle.
+- Driver başarılı bir şekilde yüklendikten sonra "lowuz injector.exe" çalıştır.;
+- "Zula_Simple_Injector" dosyasını çalıştır
+- Oyunu başlat.
+- "Enjekte Edildi" yazısı geldikten sonra oyun içinde "INSERT" tuşuna bas.
+- Hile menüsü karşına gelecektir. İyi oyunlar.
 
-Master the land, build your defenses, and when the darkness comes, stand with your people, crown on your head, until the very end…
-Kingdom (now known as Kingdom: Classic) is the first in the line of Kingdom games, the 2D sidescrolling strategy/resource management hybrid people have come to love. 
+![image](https://github.com/adonias-1337/zula-simple-cheat/assets/81821456/80f2fdae-4f4c-4fe3-9183-42768e9c55ad)
 
-- With a minimalist feel wrapped in a beautiful, modern pixel art aesthetic, you play the role of a king or queen atop their horse and enter a procedurally-generated realm primed to sustain a kingdom, then toss gold to peasants and turn them into your loyal subjects in order to make your kingdom flourish. Protect your domain at night from the greedy creatures looking to steal your coins and crown, and explore the nearby, mysterious forests to discover curious and cryptic artifacts to aid your kingdom.
+Ufak dump ve patch bilgisi olan arkadaşlar kaynak kodlarını alıp projelerinde kullanabilir (Injector ve Driver için de aynısı geçerli.)
+**Menü gelmiyorsa:**
 
-![image](https://github.com/adonias-1337/zula-simple-cheat/assets/81821456/3556273d-c623-416b-b9e9-fab8e89ffcc9)
+- Virüs programlarını kapatıp tüm adımları tekrar dene (Windows Defender vb)
+- "load.exe" dosyasını tekrar yönetici olarak çalıştır. (Driver'ı yükle.)
+Bu sorun genellikle Driver'ın doğru yüklenmemesinden dolayı olmaktadır eğer Driver'ı kurmadıysanız enjekte edildi diyecek fakat oyuna enjekte edilmeyecektir. Bu nedenle "load.exe" dosyasını çalıştırdığınızdan emin olun.
+
+**.NET Framework 
+NOT: Eğer sorunlarınızı çözemediyseniz Discord'dan ekleyebilirsiniz. Yazmadan önce kanala abone olduğunuzun ekran görüntüsünü (fotoğrafını) gönderin aksi takdirde mesajlarınıza bakmıyorum. adonias#1337

@@ -1,23 +1,50 @@
-# Zula Simple Cheat Menu
+# Zula Simple Cheat [![Github All Releases](https://img.shields.io/github/downloads/adonias-1337/zula-simple-cheat/total)]()
 
-Son Güncelleme: 21.08.2024 | discord: vessy#1337
+Son Güncelleme: 22.08.2024 | Zula Simple Cheat 5.0
 
-- Aşağıda verilen linkten dosyayı indir ve içindekileri bir klasöre at.
-- İlk önce "load.exe" dosyasını çalıştır ve Driver'ı yükle.
-- Driver başarılı bir şekilde yüklendikten sonra "lowuz injector.exe" çalıştır.;
-- "Zula_Simple_Injector" dosyasını çalıştır
-- Oyunu başlat.
-- "Enjekte Edildi" yazısı geldikten sonra oyun içinde "INSERT" tuşuna bas.
-- Hile menüsü karşına gelecektir. İyi oyunlar.
 
-![image](https://github.com/adonias-1337/zula-simple-cheat/assets/81821456/80f2fdae-4f4c-4fe3-9183-42768e9c55ad)
+**Güncelleme Notları**
+- Yeni özellikler eklendi.
+- Menü arayüzü sıfırdan tasarlandı.
+- Driver güncellendi.
+- Özellikler güncellendi.
+- Driver imzalandı.
+- Giriş ve inject sorunları çözüldü.
 
-Ufak dump ve patch bilgisi olan arkadaşlar kaynak kodlarını alıp projelerinde kullanabilir (Injector ve Driver için de aynısı geçerli.)
-**Menü gelmiyorsa:**
+discord: vessy1337
 
-- Virüs programlarını kapatıp tüm adımları tekrar dene (Windows Defender vb)
-- "load.exe" dosyasını tekrar yönetici olarak çalıştır. (Driver'ı yükle.)
-Bu sorun genellikle Driver'ın doğru yüklenmemesinden dolayı olmaktadır eğer Driver'ı kurmadıysanız enjekte edildi diyecek fakat oyuna enjekte edilmeyecektir. Bu nedenle "load.exe" dosyasını çalıştırdığınızdan emin olun.
+__NOT: Driver'ın stabilize bir şekilde çalışması için Firewall, Secure Boot, Windows Defender ve diğer anti-virüs programlarının driverlarının kapalı hatta silinmiş olması gerekmektedir. Bu yazılımları tamamen siliniz.__
 
-**.NET Framework 
-NOT: Eğer sorunlarınızı çözemediyseniz Discord'dan ekleyebilirsiniz. Yazmadan önce kanala abone olduğunuzun ekran görüntüsünü (fotoğrafını) gönderin aksi takdirde mesajlarınıza bakmıyorum. adonias#1337
+1- Aşağıda verilen linkten dosyayı indir ve içindekileri bir klasöre çıkar.
+
+2- simple_injector_5.0.exe dosyasını **YÖNETİCİ OLARAK BAŞLAT** YÖNETİCİ OLARAK BAŞLATMAZSANIZ HATA ALIRSINIZ!
+
+3- Driver'ın indirilmesini bekle.
+
+4- "Waiting for Zula" yazısı gelince oyunu başlat.
+
+5- "Injected." yazısı geldikten sonra menü en üst pencereye enjekte olacaktır, oyun içerisine enjekte olmaz, tamamen externaldir o sebeple; **[KONSOLU KAPATMAYIN, KAPATIRSANIZ MENÜ KAPANACAKTIR.]**
+
+6- Insert tuşuna basıp menüyü açıp kapatabilirsiniz.
+
+
+![Zula 2024-01-30 22-00-46](https://github.com/adonias-1337/zula-simple-cheat/assets/81821456/11c26128-a852-44e3-9a55-64626294804e)
+
+
+
+- **Dosya siliniyor, açılmıyor**
+
+Bu hatanın tek çözümü Windows Defender ve diğer güvenlik programlarını kapatmaktır.
+Zula Simple Cheat yazılımında hiçbir 3. parti olumsuz taraflı içerik bulunmamaktadır lâkin false positive durumu çoğu hilede oluşabileceği gibi Zula Simple Cheat üzerinde de oluşabilmektedir.
+
+- **Mavi Ekran ve Hata Kodları**
+
+Bu sorunlar genellikle yeni işletim sistemlerinde görülmektedir (Windows 11, Windows 10 20H2+). Bu sürümlerde bulunan ekstra özellikler Zula Simple Cheat'in altyapısında kullanılan modül ve fonksiyonlarla çakışmakta, problemlere sebep olabilmektedir. Bunun bir diğer sebebi ise Driver'ın yine aynı doğrultuda çalışmamasıdır. Firewall, Secure Boot gibi modern Windows fonksiyonlarını devre dışı bırakıp tekrar deneyin. Eğer işe yaramazsa "Windows Sanallaştırma Tabanlı Güvenlik" fonksiyonunu da devre dışı bırakmanız gerekecektir.
+
+- **.NET Framework hataları**
+
+Uygulamayı yönetici olarak çalıştırmanız gerekiyor. Microsoft Redist, VS SDK gibi modülleri bilgisayarınıza indirip kurmanız gerekmektedir.
+
+- **Enjekte Edilemedi Hatası**
+
+Tüm 3. parti programları/yazılımları kapatıp hileyi tekrar başlatın. Buna Zula ve Anti-Virüs programları dahildir.
